@@ -41,6 +41,17 @@ This is a console-based **ATM Interface** project built using Java. It simulates
 javac EnhancedATM.java
 java EnhancedATM '''
 
+Output :
+
+
+
+![Image](https://github.com/user-attachments/assets/b64459c5-4696-4198-b5c1-01215557162c)
+
+![Image](https://github.com/user-attachments/assets/29d8eb94-7a9c-4d01-b4a7-1cd2b61c8e25)
+
+![Image](https://github.com/user-attachments/assets/78df5c36-cea6-4d48-858f-f38d12471242)
+
+![Image](https://github.com/user-attachments/assets/eadad1e9-f958-46d4-aadd-f0828f377de4)
    
 
 
