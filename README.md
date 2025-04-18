@@ -37,21 +37,10 @@ This is a console-based **ATM Interface** project built using Java. It simulates
 2. Open the file in **VS Code** or your favorite Java IDE.
 3. Make sure Java is installed (`javac -version`).
 4. Compile and run:
-
-```bash
+5. ```bash
 javac EnhancedATM.java
-java EnhancedATM
+java EnhancedATM '''
 
-Output :
+   
 
-
-
-
-![Image](https://github.com/user-attachments/assets/00d1bcf5-7222-42ba-be0b-4ceb1e1108c5)
-
-![Image](https://github.com/user-attachments/assets/7695f406-29f4-436a-9bcc-5c4090c442b3)
-
-![Image](https://github.com/user-attachments/assets/4095ab52-6ec7-4ce5-b6d1-2f5b451ee90f)
-
-![Image](https://github.com/user-attachments/assets/104267bf-4b0e-4fd4-87c7-f3bdad14f561)
 
